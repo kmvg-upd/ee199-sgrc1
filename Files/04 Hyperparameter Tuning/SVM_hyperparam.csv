@@ -1,0 +1,121 @@
+Feature,Check Meter Config,Dataset,C,Gamma
+Gamma Deviance,C1,1,1,1
+Gamma Deviance,C1,6,1,1
+Gamma Deviance,C1,7,10,1
+Gamma Deviance,C1,8,1000,1
+Gamma Deviance,C1,9,100,1
+Gamma Deviance,C2,1,100,1
+Gamma Deviance,C2,6,1,1
+Gamma Deviance,C2,7,100,0.1
+Gamma Deviance,C2,8,100,0.1
+Gamma Deviance,C2,9,100,1
+Gamma Deviance,C3,1,1000,1
+Gamma Deviance,C3,6,100,1
+Gamma Deviance,C3,7,1000,0.1
+Gamma Deviance,C3,8,10,1
+Gamma Deviance,C3,9,100,1
+Gamma Deviance,C4,1,1000,1
+Gamma Deviance,C4,6,10,1
+Gamma Deviance,C4,7,1000,1
+Gamma Deviance,C4,8,10,1
+Gamma Deviance,C4,9,100,1
+Gamma Deviance,C5,1,1000,1
+Gamma Deviance,C5,6,1000,1
+Gamma Deviance,C5,7,100,1
+Gamma Deviance,C5,8,1000,1
+Gamma Deviance,C5,9,1000,1
+Gamma Deviance,C6,1,10,0.1
+Gamma Deviance,C6,6,0.1,1
+Gamma Deviance,C6,7,0.1,1
+Gamma Deviance,C6,8,1000,1
+Gamma Deviance,C6,9,100,0.001
+Log Cosh Loss,C1,1,1,1
+Log Cosh Loss,C1,6,1,1
+Log Cosh Loss,C1,7,10,1
+Log Cosh Loss,C1,8,10,1
+Log Cosh Loss,C1,9,1,1
+Log Cosh Loss,C2,1,100,1
+Log Cosh Loss,C2,6,100,1
+Log Cosh Loss,C2,7,100,1
+Log Cosh Loss,C2,8,1000,0.1
+Log Cosh Loss,C2,9,10,1
+Log Cosh Loss,C3,1,100,1
+Log Cosh Loss,C3,6,100,1
+Log Cosh Loss,C3,7,1000,0.1
+Log Cosh Loss,C3,8,100,1
+Log Cosh Loss,C3,9,1000,0.1
+Log Cosh Loss,C4,1,100,1
+Log Cosh Loss,C4,6,100,1
+Log Cosh Loss,C4,7,100,1
+Log Cosh Loss,C4,8,1000,1
+Log Cosh Loss,C4,9,1000,0.1
+Log Cosh Loss,C5,1,100,1
+Log Cosh Loss,C5,6,10,1
+Log Cosh Loss,C5,7,10,1
+Log Cosh Loss,C5,8,10,1
+Log Cosh Loss,C5,9,1000,1
+Log Cosh Loss,C6,1,10,0.1
+Log Cosh Loss,C6,6,10,0.1
+Log Cosh Loss,C6,7,10,0.1
+Log Cosh Loss,C6,8,1,1
+Log Cosh Loss,C6,9,1,1
+Percent Loss Error,C1,1,1,1
+Percent Loss Error,C1,6,1,1
+Percent Loss Error,C1,7,10,0.1
+Percent Loss Error,C1,8,1,1
+Percent Loss Error,C1,9,10,1
+Percent Loss Error,C2,1,100,0.1
+Percent Loss Error,C2,6,10,1
+Percent Loss Error,C2,7,1000,0.001
+Percent Loss Error,C2,8,10,1
+Percent Loss Error,C2,9,10,1
+Percent Loss Error,C3,1,1000,0.1
+Percent Loss Error,C3,6,10,1
+Percent Loss Error,C3,7,1,1
+Percent Loss Error,C3,8,1,1
+Percent Loss Error,C3,9,10,1
+Percent Loss Error,C4,1,100,1
+Percent Loss Error,C4,6,10,1
+Percent Loss Error,C4,7,1000,1
+Percent Loss Error,C4,8,1,1
+Percent Loss Error,C4,9,100,1
+Percent Loss Error,C5,1,100,1
+Percent Loss Error,C5,6,1000,1
+Percent Loss Error,C5,7,1000,1
+Percent Loss Error,C5,8,1000,1
+Percent Loss Error,C5,9,1000,1
+Percent Loss Error,C6,1,1,0.01
+Percent Loss Error,C6,6,10,1
+Percent Loss Error,C6,7,10,0.01
+Percent Loss Error,C6,8,1000,0.01
+Percent Loss Error,C6,9,1,0.1
+Poisson Deviance,C1,1,1,1
+Poisson Deviance,C1,6,1,1
+Poisson Deviance,C1,7,10,1
+Poisson Deviance,C1,8,1,1
+Poisson Deviance,C1,9,1,1
+Poisson Deviance,C2,1,1000,0.1
+Poisson Deviance,C2,6,10,1
+Poisson Deviance,C2,7,1000,0.1
+Poisson Deviance,C2,8,100,1
+Poisson Deviance,C2,9,10,1
+Poisson Deviance,C3,1,1000,0.1
+Poisson Deviance,C3,6,1000,0.1
+Poisson Deviance,C3,7,1000,0.1
+Poisson Deviance,C3,8,100,1
+Poisson Deviance,C3,9,10,1
+Poisson Deviance,C4,1,1000,1
+Poisson Deviance,C4,6,10,1
+Poisson Deviance,C4,7,100,1
+Poisson Deviance,C4,8,100,1
+Poisson Deviance,C4,9,1,1
+Poisson Deviance,C5,1,100,1
+Poisson Deviance,C5,6,10,1
+Poisson Deviance,C5,7,1000,0.1
+Poisson Deviance,C5,8,1000,1
+Poisson Deviance,C5,9,100,1
+Poisson Deviance,C6,1,10,0.01
+Poisson Deviance,C6,6,10,0.1
+Poisson Deviance,C6,7,0.1,1
+Poisson Deviance,C6,8,1000,0.01
+Poisson Deviance,C6,9,1,1
