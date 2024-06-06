@@ -1,0 +1,121 @@
+Feature,Check Meter Config,Dataset,Solver,Activation,Batch Size,LR
+Gamma Deviance,C1,1,adam,relu,64,0.01
+Gamma Deviance,C1,2,adam,relu,32,0.01
+Gamma Deviance,C1,3,adam,relu,32,0.01
+Gamma Deviance,C1,4,adam,tanh,64,0.01
+Gamma Deviance,C1,5,adam,relu,32,0.1
+Gamma Deviance,C2,1,adam,relu,64,0.1
+Gamma Deviance,C2,2,adam,relu,32,0.01
+Gamma Deviance,C2,3,adam,relu,32,0.01
+Gamma Deviance,C2,4,adam,tanh,64,0.1
+Gamma Deviance,C2,5,adam,relu,64,0.01
+Gamma Deviance,C3,1,adam,relu,32,0.1
+Gamma Deviance,C3,2,adam,relu,32,0.01
+Gamma Deviance,C3,3,adam,relu,64,0.1
+Gamma Deviance,C3,4,adam,relu,64,0.01
+Gamma Deviance,C3,5,adam,relu,32,0.01
+Gamma Deviance,C4,1,adam,relu,64,0.1
+Gamma Deviance,C4,2,adam,relu,32,0.001
+Gamma Deviance,C4,3,adam,relu,32,0.01
+Gamma Deviance,C4,4,adam,relu,32,0.1
+Gamma Deviance,C4,5,adam,tanh,64,0.01
+Gamma Deviance,C5,1,adam,relu,64,0.01
+Gamma Deviance,C5,2,adam,relu,32,0.001
+Gamma Deviance,C5,3,adam,relu,32,0.01
+Gamma Deviance,C5,4,adam,relu,64,0.1
+Gamma Deviance,C5,5,adam,tanh,64,0.1
+Gamma Deviance,C6,1,adam,tanh,64,0.001
+Gamma Deviance,C6,2,adam,tanh,64,0.001
+Gamma Deviance,C6,3,adam,tanh,64,0.001
+Gamma Deviance,C6,4,adam,tanh,32,0.001
+Gamma Deviance,C6,5,adam,relu,64,0.01
+Log Cosh Loss,C1,1,adam,relu,32,0.001
+Log Cosh Loss,C1,2,adam,relu,32,0.001
+Log Cosh Loss,C1,3,adam,relu,64,0.01
+Log Cosh Loss,C1,4,adam,relu,32,0.001
+Log Cosh Loss,C1,5,adam,relu,32,0.01
+Log Cosh Loss,C2,1,adam,relu,32,0.1
+Log Cosh Loss,C2,2,adam,relu,32,0.01
+Log Cosh Loss,C2,3,adam,relu,64,0.01
+Log Cosh Loss,C2,4,adam,relu,32,0.001
+Log Cosh Loss,C2,5,adam,relu,64,0.01
+Log Cosh Loss,C3,1,adam,relu,32,0.001
+Log Cosh Loss,C3,2,adam,relu,64,0.01
+Log Cosh Loss,C3,3,adam,relu,32,0.001
+Log Cosh Loss,C3,4,adam,relu,32,0.01
+Log Cosh Loss,C3,5,adam,relu,64,0.1
+Log Cosh Loss,C4,1,adam,relu,64,0.01
+Log Cosh Loss,C4,2,adam,relu,64,0.01
+Log Cosh Loss,C4,3,adam,relu,32,0.001
+Log Cosh Loss,C4,4,adam,relu,64,0.001
+Log Cosh Loss,C4,5,adam,relu,32,0.001
+Log Cosh Loss,C5,1,adam,relu,64,0.01
+Log Cosh Loss,C5,2,adam,relu,64,0.01
+Log Cosh Loss,C5,3,adam,relu,32,0.01
+Log Cosh Loss,C5,4,adam,relu,64,0.01
+Log Cosh Loss,C5,5,adam,relu,32,0.001
+Log Cosh Loss,C6,1,adam,relu,64,0.01
+Log Cosh Loss,C6,2,adam,relu,32,0.1
+Log Cosh Loss,C6,3,adam,relu,32,0.01
+Log Cosh Loss,C6,4,adam,relu,32,0.1
+Log Cosh Loss,C6,5,adam,relu,32,0.001
+Percent Loss Error,C1,1,adam,relu,64,0.01
+Percent Loss Error,C1,2,adam,relu,32,0.01
+Percent Loss Error,C1,3,adam,relu,32,0.1
+Percent Loss Error,C1,4,adam,relu,64,0.001
+Percent Loss Error,C1,5,adam,relu,64,0.001
+Percent Loss Error,C2,1,adam,relu,64,0.01
+Percent Loss Error,C2,2,adam,relu,32,0.01
+Percent Loss Error,C2,3,adam,relu,64,0.01
+Percent Loss Error,C2,4,adam,relu,32,0.001
+Percent Loss Error,C2,5,adam,tanh,32,0.01
+Percent Loss Error,C3,1,adam,relu,64,0.1
+Percent Loss Error,C3,2,adam,relu,32,0.01
+Percent Loss Error,C3,3,adam,relu,64,0.01
+Percent Loss Error,C3,4,adam,relu,64,0.01
+Percent Loss Error,C3,5,adam,relu,64,0.1
+Percent Loss Error,C4,1,adam,relu,64,0.01
+Percent Loss Error,C4,2,adam,relu,32,0.01
+Percent Loss Error,C4,3,adam,relu,32,0.01
+Percent Loss Error,C4,4,adam,relu,64,0.01
+Percent Loss Error,C4,5,adam,relu,64,0.01
+Percent Loss Error,C5,1,adam,relu,32,0.01
+Percent Loss Error,C5,2,adam,relu,32,0.1
+Percent Loss Error,C5,3,adam,relu,32,0.001
+Percent Loss Error,C5,4,adam,relu,32,0.1
+Percent Loss Error,C5,5,adam,relu,32,0.01
+Percent Loss Error,C6,1,adam,relu,64,0.01
+Percent Loss Error,C6,2,adam,relu,64,0.001
+Percent Loss Error,C6,3,adam,tanh,64,0.001
+Percent Loss Error,C6,4,adam,relu,32,0.001
+Percent Loss Error,C6,5,adam,relu,32,0.001
+Poisson Deviance,C1,1,adam,relu,32,0.01
+Poisson Deviance,C1,2,adam,relu,32,0.001
+Poisson Deviance,C1,3,adam,relu,64,0.01
+Poisson Deviance,C1,4,adam,relu,32,0.01
+Poisson Deviance,C1,5,adam,relu,32,0.01
+Poisson Deviance,C2,1,adam,relu,32,0.01
+Poisson Deviance,C2,2,adam,relu,64,0.01
+Poisson Deviance,C2,3,adam,relu,64,0.01
+Poisson Deviance,C2,4,adam,relu,64,0.01
+Poisson Deviance,C2,5,adam,relu,32,0.001
+Poisson Deviance,C3,1,adam,relu,64,0.01
+Poisson Deviance,C3,2,adam,relu,32,0.01
+Poisson Deviance,C3,3,adam,relu,32,0.01
+Poisson Deviance,C3,4,adam,relu,32,0.01
+Poisson Deviance,C3,5,adam,relu,32,0.01
+Poisson Deviance,C4,1,adam,relu,64,0.01
+Poisson Deviance,C4,2,adam,relu,32,0.01
+Poisson Deviance,C4,3,adam,relu,32,0.01
+Poisson Deviance,C4,4,adam,relu,64,0.001
+Poisson Deviance,C4,5,adam,relu,32,0.001
+Poisson Deviance,C5,1,adam,relu,32,0.001
+Poisson Deviance,C5,2,adam,relu,64,0.01
+Poisson Deviance,C5,3,adam,relu,64,0.01
+Poisson Deviance,C5,4,adam,relu,64,0.01
+Poisson Deviance,C5,5,adam,relu,32,0.001
+Poisson Deviance,C6,1,adam,relu,64,0.001
+Poisson Deviance,C6,2,adam,relu,32,0.01
+Poisson Deviance,C6,3,adam,relu,64,0.1
+Poisson Deviance,C6,4,adam,relu,64,0.1
+Poisson Deviance,C6,5,adam,relu,64,0.001
