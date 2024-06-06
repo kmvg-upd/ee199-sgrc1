@@ -1,0 +1,61 @@
+// Indiv Household Meters
+New monitor.hm_load1_power element=Line.LINE33 terminal=1 mode=1 ppolar=no
+New monitor.hm_load2_power element=Line.LINE46 terminal=1 mode=1 ppolar=no
+New monitor.hm_load3_power element=Line.LINE69 terminal=1 mode=1 ppolar=no
+New monitor.hm_load4_power element=Line.LINE72 terminal=1 mode=1 ppolar=no
+New monitor.hm_load5_power element=Line.LINE73 terminal=1 mode=1 ppolar=no
+New monitor.hm_load6_power element=Line.LINE82 terminal=1 mode=1 ppolar=no
+New monitor.hm_load7_power element=Line.LINE177 terminal=1 mode=1 ppolar=no
+New monitor.hm_load8_power element=Line.LINE207 terminal=1 mode=1 ppolar=no
+New monitor.hm_load9_power element=Line.LINE224 terminal=1 mode=1 ppolar=no
+New monitor.hm_load10_power element=Line.LINE247 terminal=1 mode=1 ppolar=no
+New monitor.hm_load11_power element=Line.LINE248 terminal=1 mode=1 ppolar=no
+New monitor.hm_load12_power element=Line.LINE263 terminal=1 mode=1 ppolar=no
+New monitor.hm_load13_power element=Line.LINE275 terminal=1 mode=1 ppolar=no
+New monitor.hm_load14_power element=Line.LINE288 terminal=1 mode=1 ppolar=no
+New monitor.hm_load15_power element=Line.LINE319 terminal=1 mode=1 ppolar=no
+New monitor.hm_load16_power element=Line.LINE313 terminal=1 mode=1 ppolar=no
+New monitor.hm_load17_power element=Line.LINE326 terminal=1 mode=1 ppolar=no
+New monitor.hm_load18_power element=Line.LINE336 terminal=1 mode=1 ppolar=no
+New monitor.hm_load19_power element=Line.LINE341 terminal=1 mode=1 ppolar=no
+New monitor.hm_load20_power element=Line.LINE348 terminal=1 mode=1 ppolar=no
+New monitor.hm_load21_power element=Line.LINE386 terminal=1 mode=1 ppolar=no
+New monitor.hm_load22_power element=Line.LINE387 terminal=1 mode=1 ppolar=no
+New monitor.hm_load23_power element=Line.LINE405 terminal=1 mode=1 ppolar=no
+New monitor.hm_load24_power element=Line.LINE457 terminal=1 mode=1 ppolar=no
+New monitor.hm_load25_power element=Line.LINE501 terminal=1 mode=1 ppolar=no
+New monitor.hm_load26_power element=Line.LINE521 terminal=1 mode=1 ppolar=no
+New monitor.hm_load27_power element=Line.LINE538 terminal=1 mode=1 ppolar=no
+New monitor.hm_load28_power element=Line.LINE555 terminal=1 mode=1 ppolar=no
+New monitor.hm_load29_power element=Line.LINE561 terminal=1 mode=1 ppolar=no
+New monitor.hm_load30_power element=Line.LINE562 terminal=1 mode=1 ppolar=no
+New monitor.hm_load31_power element=Line.LINE610 terminal=1 mode=1 ppolar=no
+New monitor.hm_load32_power element=Line.LINE613 terminal=1 mode=1 ppolar=no
+New monitor.hm_load33_power element=Line.LINE618 terminal=1 mode=1 ppolar=no
+New monitor.hm_load34_power element=Line.LINE628 terminal=1 mode=1 ppolar=no
+New monitor.hm_load35_power element=Line.LINE638 terminal=1 mode=1 ppolar=no
+New monitor.hm_load36_power element=Line.LINE675 terminal=1 mode=1 ppolar=no
+New monitor.hm_load37_power element=Line.LINE681 terminal=1 mode=1 ppolar=no
+New monitor.hm_load38_power element=Line.LINE687 terminal=1 mode=1 ppolar=no
+New monitor.hm_load39_power element=Line.LINE700 terminal=1 mode=1 ppolar=no
+New monitor.hm_load40_power element=Line.LINE701 terminal=1 mode=1 ppolar=no
+New monitor.hm_load41_power element=Line.LINE754 terminal=1 mode=1 ppolar=no
+New monitor.hm_load42_power element=Line.LINE777 terminal=1 mode=1 ppolar=no
+New monitor.hm_load43_power element=Line.LINE779 terminal=1 mode=1 ppolar=no
+New monitor.hm_load44_power element=Line.LINE784 terminal=1 mode=1 ppolar=no
+New monitor.hm_load45_power element=Line.LINE812 terminal=1 mode=1 ppolar=no
+New monitor.hm_load46_power element=Line.LINE816 terminal=1 mode=1 ppolar=no
+New monitor.hm_load47_power element=Line.LINE834 terminal=1 mode=1 ppolar=no
+New monitor.hm_load48_power element=Line.LINE859 terminal=1 mode=1 ppolar=no
+New monitor.hm_load49_power element=Line.LINE860 terminal=1 mode=1 ppolar=no
+New monitor.hm_load50_power element=Line.LINE885 terminal=1 mode=1 ppolar=no
+New monitor.hm_load51_power element=Line.LINE895 terminal=1 mode=1 ppolar=no
+New monitor.hm_load52_power element=Line.LINE897 terminal=1 mode=1 ppolar=no
+New monitor.hm_load53_power element=Line.LINE898 terminal=1 mode=1 ppolar=no
+New monitor.hm_load54_power element=Line.LINE899 terminal=1 mode=1 ppolar=no
+New monitor.hm_load55_power element=Line.LINE905 terminal=1 mode=1 ppolar=no
+
+// Check Meters
+
+// CM1
+New monitor.cm1 element=Line.LINE3 terminal=1 mode=1 ppolar=no

@@ -1,0 +1,18 @@
+clear
+
+Set DefaultBaseFrequency=50  ! for European system
+
+New circuit.LV_Feeder
+Edit Vsource.Source BasekV=11 pu=1.05  ISC3=3000  ISC1=5
+Redirect ".\LineCodes.txt"
+Redirect ".\LoadShapes_Ausgrid.txt"
+Redirect ".\Lines.txt"
+Redirect ".\Transformers.txt"
+
+!Set voltagebases=[11  .416]
+!Calcvoltagebases
+
+!buscoords ".\buscoords.txt"
+!solve
+
+!set mode=yearly number=336 stepsize=30m    ! one year simulation 
